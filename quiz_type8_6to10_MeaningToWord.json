@@ -1,0 +1,102 @@
+[
+  {
+    "question": "뛰다(위로)를 영어로?",
+    "correct": "jump"
+  },
+  {
+    "question": "열다를 영어로?",
+    "correct": "open"
+  },
+  {
+    "question": "앉다를 영어로?",
+    "correct": "sit"
+  },
+  {
+    "question": "서다를 영어로?",
+    "correct": "stand"
+  },
+  {
+    "question": "듣다를 영어로?",
+    "correct": "listen"
+  },
+  {
+    "question": "바나나를 영어로?",
+    "correct": "banana"
+  },
+  {
+    "question": "빵을 영어로?",
+    "correct": "bread"
+  },
+  {
+    "question": "쿠키를 영어로?",
+    "correct": "cookie"
+  },
+  {
+    "question": "키위를 영어로?",
+    "correct": "kiwi"
+  },
+  {
+    "question": "레몬을 영어로?",
+    "correct": "lemon"
+  },
+  {
+    "question": "좋아하다를 영어로?",
+    "correct": "like"
+  },
+  {
+    "question": "엄마를 영어로?",
+    "correct": "mom"
+  },
+  {
+    "question": "~가 아니다를 영어로?",
+    "correct": "not"
+  },
+  {
+    "question": "피자를 영어로?",
+    "correct": "pizza"
+  },
+  {
+    "question": "놀다를 영어로?",
+    "correct": "play"
+  },
+  {
+    "question": "오후를 영어로?",
+    "correct": "afternoon"
+  },
+  {
+    "question": "좋은을 영어로?",
+    "correct": "good"
+  },
+  {
+    "question": "만들다를 영어로?",
+    "correct": "make"
+  },
+  {
+    "question": "아침을 영어로?",
+    "correct": "morning"
+  },
+  {
+    "question": "오렌지를 영어로?",
+    "correct": "orange"
+  },
+  {
+    "question": "여왕을 영어로?",
+    "correct": "queen"
+  },
+  {
+    "question": "빨간을 영어로?",
+    "correct": "red"
+  },
+  {
+    "question": "셔츠를 영어로?",
+    "correct": "shirt"
+  },
+  {
+    "question": "토마토를 영어로?",
+    "correct": "tomato"
+  },
+  {
+    "question": "말하다를 영어로?",
+    "correct": "say"
+  }
+]

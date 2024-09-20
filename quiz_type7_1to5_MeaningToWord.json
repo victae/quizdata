@@ -1,0 +1,98 @@
+[
+  {
+    "question": "사과를 영어로?",
+    "correct": "apple"
+  },
+  {
+    "question": "책을 영어로?",
+    "correct": "book"
+  },
+  {
+    "question": "컵을 영어로?",
+    "correct": "cup"
+  },
+  {
+    "question": "잘가(인사말)를 영어로?",
+    "correct": "goodbye"
+  },
+  {
+    "question": "나를 영어로?",
+    "correct": "I"
+  },
+  {
+    "question": "만나다를 영어로?",
+    "correct": "meet"
+  },
+  {
+    "question": "좋은을 영어로?",
+    "correct": "nice"
+  },
+  {
+    "question": "너를 영어로?",
+    "correct": "you"
+  },
+  {
+    "question": "보를 영어로?",
+    "correct": "look"
+  },
+  {
+    "question": "큰을 영어로?",
+    "correct": "big"
+  },
+  {
+    "question": "인형을 영어로?",
+    "correct": "doll"
+  },
+  {
+    "question": "계란을 영어로?",
+    "correct": "egg"
+  },
+  {
+    "question": "공책을 영어로?",
+    "correct": "notebook"
+  },
+  {
+    "question": "연필을 영어로?",
+    "correct": "pencil"
+  },
+  {
+    "question": "작은을 영어로?",
+    "correct": "small"
+  },
+  {
+    "question": "저것을 영어로?",
+    "correct": "that"
+  },
+  {
+    "question": "이것을 영어로?",
+    "correct": "this"
+  },
+  {
+    "question": "무엇을 영어로?",
+    "correct": "what"
+  },
+  {
+    "question": "말하다를 영어로?",
+    "correct": "speak"
+  },
+  {
+    "question": "닫다를 영어로?",
+    "correct": "close"
+  },
+  {
+    "question": "문을 영어로?",
+    "correct": "door"
+  },
+  {
+    "question": "아래로를 영어로?",
+    "correct": "down"
+  },
+  {
+    "question": "포도를 영어로?",
+    "correct": "grape"
+  },
+  {
+    "question": "아이스크림을 영어로?",
+    "correct": "ice cream"
+  }
+]
