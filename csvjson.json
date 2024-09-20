@@ -1,0 +1,26 @@
+[
+  {
+    "question": "A의 발음은?",
+    "option1": "에이",
+    "option2": "아이",
+    "option3": "와이",
+    "option4": "자이",
+    "correct": 0
+  },
+  {
+    "question": "B의 발음은?",
+    "option1": "비",
+    "option2": "베",
+    "option3": "보",
+    "option4": "키",
+    "correct": 0
+  },
+  {
+    "question": "C의 발음은?",
+    "option1": "씨",
+    "option2": "이",
+    "option3": "뒤",
+    "option4": "지",
+    "correct": 0
+  }
+]
