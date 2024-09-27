@@ -1,10 +1,10 @@
 [
   {
-    "question": "mole의 뜻은?",
+    "question": "mole_몰_의 뜻은?",
     "correct": "두더지"
   },
   {
-    "question": "hope의 뜻은?",
+    "question": "hope_호프_의 뜻은?",
     "correct": "희망"
   },
   {
@@ -12,35 +12,35 @@
     "correct": "호스"
   },
   {
-    "question": "rope의 뜻은?",
+    "question": "rope_로프_의 뜻은?",
     "correct": "밧줄"
   },
   {
-    "question": "pole의 뜻은?",
+    "question": "pole_폴_의 뜻은?",
     "correct": "막대기"
   },
   {
-    "question": "rose의 뜻은?",
+    "question": "rose_로즈_의 뜻은?",
     "correct": "장미"
   },
   {
-    "question": "pope의 뜻은?",
+    "question": "pope_폽_의 뜻은?",
     "correct": "교황"
   },
   {
-    "question": "nose의 뜻은?",
+    "question": "nose_노우즈_의 뜻은?",
     "correct": "코"
   },
   {
-    "question": "hole의 뜻은?",
+    "question": "hole_홀_의 뜻은?",
     "correct": "구멍"
   },
   {
-    "question": "name의 뜻은?",
+    "question": "name_네임_의 뜻은?",
     "correct": "이름"
   },
   {
-    "question": "tune의 뜻은?",
+    "question": "tune_튠_의 뜻은?",
     "correct": "선율"
   },
   {
@@ -48,27 +48,27 @@
     "correct": "큐브"
   },
   {
-    "question": "mute의 뜻은?",
+    "question": "mute_뮤트_의 뜻은?",
     "correct": "무음"
   },
   {
-    "question": "mule의 뜻은?",
+    "question": "mule_뮬_의 뜻은?",
     "correct": "노새(당나귀)"
   },
   {
-    "question": "mole의 뜻은?",
+    "question": "mole_몰_의 뜻은?",
     "correct": "두더지"
   },
   {
-    "question": "June의 뜻은?",
+    "question": "June_쥰_의 뜻은?",
     "correct": "6월"
   },
   {
-    "question": "rule의 뜻은?",
+    "question": "rule_룰_의 뜻은?",
     "correct": "규칙"
   },
   {
-    "question": "five의 뜻은?",
+    "question": "five_파이브_의 뜻은?",
     "correct": "5"
   },
   {
@@ -76,7 +76,7 @@
     "correct": "튜브"
   },
   {
-    "question": "cute의 뜻은?",
+    "question": "cute_큐트_의 뜻은?",
     "correct": "귀엽다"
   }
 ]
